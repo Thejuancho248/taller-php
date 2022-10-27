@@ -5,6 +5,6 @@ $num2 = $_POST['num2'];
 
 $Distancia = $num1*$num2;
 
-echo "La distancia recorrida es " .$Distancia;
+echo "La distancia recorrida es  " .$Distancia;
 
 ?>
